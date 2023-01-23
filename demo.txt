@@ -1,0 +1,6 @@
+Grade Sheet
+
+Name                   Grades
+Alpha                        A
+John                           B
+Ibrahim                     A
